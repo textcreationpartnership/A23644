@@ -1,0 +1,471 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A gainful death the end of a truly Christian life a sermon at the funeral of Mr. John Griffith, late minister of the Gospel, who departed this life May 16, in the 79th year of his age / preached May the 20th, 1700 by Richard Allen.</title>
+            <author>Allen, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23644</idno>
+            <idno type="STC">Wing A1041</idno>
+            <idno type="STC">ESTC R28091</idno>
+            <idno type="EEBO-CITATION">10390322</idno>
+            <idno type="OCLC">ocm 10390322</idno>
+            <idno type="VID">44951</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23644)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44951)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1372:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A gainful death the end of a truly Christian life a sermon at the funeral of Mr. John Griffith, late minister of the Gospel, who departed this life May 16, in the 79th year of his age / preached May the 20th, 1700 by Richard Allen.</title>
+                  <author>Allen, Richard.</author>
+               </titleStmt>
+               <extent>45 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Andr. Bell and M. Fabian,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44951:1"/>
+            <pb facs="tcp:44951:1" rendition="simple:additions"/>
+            <p>
+               <hi>A Gainful Death the end of a truly Chriſtian Life.</hi> A SERMON At the FUNERAL of Mr. <hi>John Griffith,</hi> Late Miniſter of the Goſpel, Who departed this Life <hi>May</hi> 16. in the 79th year of his Age.</p>
+            <p>Preach'd <hi>May</hi> the 20th 1700.</p>
+            <p>By <hi>RICHARD ALLEN.</hi>
+            </p>
+            <p>
+               <hi>LONDON;</hi> Printed for <hi>Andr. Bell</hi> at the Croſs Keys and Bible in <hi>Cornhil,</hi> and <hi>M. Fabian</hi> at <hi>Mercer's</hi> Chappel in <hi>Cheapſide.</hi> 1700.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:44951:2"/>
+            <pb n="iii" facs="tcp:44951:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <hi>I</hi> Have no other Excuſe to plead for expoſing the following Ser<g ref="char:EOLhyphen"/>mon, but the common one, that it was not by my own choice, but thro the earneſt, and often repeated Im<g ref="char:EOLhyphen"/>portunities of the deareſt Relatives of that Worthy Perſon, at whoſe Interment it was preach'd.</p>
+            <p>'Tis impoſſible I ſhould commit it to the Preſs <hi>verbatim</hi> as then de<g ref="char:EOLhyphen"/>liver'd. But tho ſeveral Expreſ<g ref="char:EOLhyphen"/>ſions then uſed may have eſeaped my Recollection; yet the ſubſtance from my own brief Notes and Memory is here tranſmitted, with ſome little Additions.</p>
+            <p>The Subject is undoubtedly excel<g ref="char:EOLhyphen"/>lent: had my Abilities in handling it been ſomewhat proportionable, I
+<pb n="iv" facs="tcp:44951:3"/>ſhould hope the advantage would well compenſate the ſmall Coſt and La<g ref="char:EOLhyphen"/>bour of the peruſal.</p>
+            <p>Such as it is I commit it to pub<g ref="char:EOLhyphen"/>lick View: If God pleaſe, by his Bleſſing, to make it in ſome mea<g ref="char:EOLhyphen"/>ſure uſeful to promote a <hi>Chriſtian Life,</hi> and a <hi>gainful Death,</hi> in any into whoſe hands it ſhall come; let ſuch be excited to give the greater Glory to God, from the Conſideration of the meanneſs of the Inſtrument.</p>
+            <closer>
+               <signed>R. A.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="5" facs="tcp:44951:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Phil. i. 21.</hi>
+                  </bibl>
+                  <p>For to me to live is Chriſt, and to die is gain.</p>
+               </q>
+            </epigraph>
+            <p>AS I thought ſtrange when Application was made to me, ſo I doubt not but ſeveral here may wonder that I ſhould be ingaged in a Funeral Diſcourſe at the Interment of this antient and worthy Miniſter of the Goſpel: Such I would inform that it was nothing but the earneſt Solicitations of his deareſt Friends and Relations, together with the venerable Eſteem I had for <hi>himſelf,</hi> that prevailed with me.</p>
+            <p>And having conſented, I had many thoughts what Text to make the foundation of my preſent Diſcourſe; but being aſſured that theſe excellent words of the Apo<g ref="char:EOLhyphen"/>ſtle were a very great Support and
+<pb n="6" facs="tcp:44951:4"/>Solace to the Mind of this Reve<g ref="char:EOLhyphen"/>rend Perſon in the approaches of his Diſſolution, and often repeated by him with much delight but few hours before his laſt <hi>Exit,</hi> I conclu<g ref="char:EOLhyphen"/>ded none more fit to be conſider'd upon this ſolemn occaſion; and the rather becauſe they are the words of one to whom I will ven<g ref="char:EOLhyphen"/>ture to liken (tho in vaſtly diffe<g ref="char:EOLhyphen"/>rent degrees) this our deceaſed Friend, <hi>viz.</hi> an antient faithful Miniſter of the Lord Jeſus Chriſt, the great Apoſtle <hi>Paul,</hi> who was now a Priſoner at <hi>Rome,</hi> and un<g ref="char:EOLhyphen"/>der the apprehenſions of a ſudden Diſſolution, not indeed (as our antient Friend) through the Infirmities of Age and Sickneſs, but as a Martyr of Jeſus Chriſt; which Apprehenſions were ſo far from being <hi>frightful</hi> and <hi>ſurprizing,</hi> that they were very <hi>comfortable</hi> and <hi>delightful</hi> to him, as appears <hi>v.</hi> 20. The ground of which holy Con<g ref="char:EOLhyphen"/>fidence and fearleſs Expectation of
+<pb n="7" facs="tcp:44951:4"/>Death, was his <hi>conſciouſneſs</hi> that Chriſt was his <hi>Life,</hi> and that there<g ref="char:EOLhyphen"/>fore Death would be his <hi>Gain,</hi> as it is expreſſed in my Text; <hi>For to me to live is Chriſt, and to die is Gain.</hi>
+            </p>
+            <p>In which words we have two <hi>Generals.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> The Apoſtle in himſelf gives us a <hi>Deſcription</hi> of a li<g ref="char:EOLhyphen"/>ving Chriſtian in theſe words, <hi>For to me to live is Chriſt;</hi> or as <hi>Tremellius</hi> (from the <hi>Syriac</hi>) and others render it,
+<note n="*" place="margin">Vita e<g ref="char:EOLhyphen"/>nim mea Chriſtus eſt.</note> 
+               <hi>For Chriſt is my Life,</hi> underſtanding that the Apoſtle uſeth the Infinitive
+<note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>to live,</hi> for the Noun
+<note n="‖" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Life;</hi> which is very uſual both in Scripture and other Authors: and being thus underſtood, the words contain this Propoſition;</p>
+            <p>That Chriſt is the Life of a true Chriſtian; <hi>as</hi> Col. <hi>3.4.</hi> When Chriſt who is our Life ſhall ap<g ref="char:EOLhyphen"/>pear, <hi>&amp;c.</hi>
+            </p>
+            <pb n="8" facs="tcp:44951:5"/>
+            <p> 
+               <hi>Secondly,</hi> The happy <hi>Exit</hi> of ſuch a one. He that can ſay upon clear grounds with the Apoſtle, That <hi>Chriſt is his Life,</hi> may aſſure himſelf that <hi>Death</hi> will be ſo far from being the King of <hi>Terrors,</hi> that it will be <hi>Gain</hi> to him.</p>
+            <p>Doct. <hi>All thoſe, and only thoſe, who have Chriſt for their Life, ſhall be Gainers by their Death.</hi>
+            </p>
+            <p>In handling this Truth, I ſhall endeavour two things.</p>
+            <list>
+               <item>I. To ſhew what's included in <hi>Chriſt's being the Life of a true Chriſtian.</hi>
+               </item>
+               <item>II. What are the <hi>Advantages</hi> that ſuch gain by their Death.</item>
+            </list>
+            <p n="1">I. The firſt thing we ſhall en<g ref="char:EOLhyphen"/>quire is, What may be included in Chriſt's being the Life of a true Chriſtian, that thereby we may make ſome <hi>Judgment</hi> of our own
+<pb n="9" facs="tcp:44951:5"/>State. I conceive it includes theſe <hi>following things,</hi> which I may little more than <hi>glance</hi> at.</p>
+            <p n="1">1. <hi>Chriſt is the meritorious Cauſe of a true Chriſtian's Life.</hi> We are all thro Sin <hi>dead in Law,</hi> and under <hi>Condemnation;</hi> but a true Chriſtian is paſſed from this State of Death and Condemnation, into that of Juſtification and Life. But how?
+<note place="margin">Rom. 3.24.</note> 
+               <hi>Being juſtified freely by his Grace, through the Redemption that is in Jeſus Chriſt.</hi> 'Tis thro the <hi>meritorious</hi> Sufferings and Obedi<g ref="char:EOLhyphen"/>ence of the Lord Jeſus imputed to Believers, in reſpect of the ſaving Benefits thereof. By Sin all are <hi>alienated from the Life of God;</hi> but the true Chriſtian is rais'd up from a <hi>Death of Sin,</hi> to a <hi>Life of ſincere Holineſs.</hi> But how? 'tis by the gracious <hi>operation</hi> of the Spirit of God, <hi>which he ſhed on us abundantly,</hi>
+               <note place="margin">Tit. 3.6.</note> 
+               <hi>through Jeſus Chriſt our Saviour.</hi>
+            </p>
+            <p n="2">2. <hi>Chriſt is the Principle of the Spiritual Life of a true Chriſtian,
+<pb n="10" facs="tcp:44951:6"/>which ſprings from <g ref="char:V">Ʋ</g>nion with him.</hi> 'Tis a dangerous Error for any to ſuppoſe themſelves to live a Life of <hi>Juſtification,</hi> before they have ſome real experience of a Life of <hi>Sancti<g ref="char:EOLhyphen"/>fication;</hi> and 'tis impoſſible to live a Life of Sanctification before this vital <hi>
+                  <g ref="char:V">Ʋ</g>nion.</hi>
+               <note place="margin">Gal. 2.20.</note> 
+               <hi>I live,</hi> ſays the Apoſtle, <hi>yet not I, but Chriſt liveth in me; and the Life which I now live in the fleſh I live by the Faith of the Son of God, who loved me, and gave himſelf for me.</hi>
+            </p>
+            <p n="3">3. <hi>The Laws of Chriſt are the governing Rule of the true Chriſtian's Life.</hi> If we <hi>ſavingly</hi> receive Chriſt, we receive him as <hi>Lord,</hi> Col. 2.6. <hi>i. e.</hi> We as willingly receive him as our <hi>King</hi> to rule and govern us, and to ſave us from the Power and Dominion of Sin at preſent, and from Sin it ſelf hereafter, as we re<g ref="char:EOLhyphen"/>ceive him for our great <hi>High Prieſt</hi> to atone for our Guilt, and pro<g ref="char:EOLhyphen"/>cure and maintain our Peace with God by his Sacrifice and Inter<g ref="char:EOLhyphen"/>ceſſion.
+<pb n="11" facs="tcp:44951:6"/>
+               <hi>Chriſt is the</hi> ſole <hi>Author of eternal Salvation,</hi>
+               <note place="margin">Heb. 5.9.</note> but 'tis only <hi>to them that obey him.</hi>
+            </p>
+            <p n="4">4. <hi>The Love of Chriſt is the con<g ref="char:EOLhyphen"/>ſtraining Motive of a true Chriſti<g ref="char:EOLhyphen"/>an's Life.</hi> None can upon clear grounds ſay with the Apoſtle, <hi>To me to die is Gain,</hi> but ſuch as can, in ſome good meaſure, alſo ſay, <hi>The Love of Chriſt conſtraineth us.</hi>
+               <note place="margin">2 Cor. 5.14. 2 Tim. 4.8.</note> 
+               <hi>The Crown of Righteouſneſs is pro<g ref="char:EOLhyphen"/>miſed to all them,</hi> and to them only <hi>who love his appearing:</hi> And to be ſure, none can love Chriſt's appear<g ref="char:EOLhyphen"/>ing but ſuch as can truly ſay,
+<note place="margin">1 Joh. 4.19.</note> 
+               <hi>We love him, becauſe he firſt loved us.</hi>
+            </p>
+            <p n="5">5. <hi>Chriſt is the Pattern and Ex<g ref="char:EOLhyphen"/>emplar of a true Chriſtian's Life.</hi> God hath <hi>predeſtinated</hi> all his Chil<g ref="char:EOLhyphen"/>dren <hi>to be conformed to the Image of his Son,</hi>
+               <note place="margin">Rom. 8.29.</note> both in Grace and Ho<g ref="char:EOLhyphen"/>lineſs here, and in Glory and Hap<g ref="char:EOLhyphen"/>pineſs hereafter: And the <hi>former</hi> is the only and neceſſary way and means to the <hi>latter.</hi> 'Tis vain for us to pretend to be ſavingly in<g ref="char:EOLhyphen"/>tereſted
+<pb n="12" facs="tcp:44951:7"/>in Chriſt, unleſs, in ſome good meaſure, we are like him in Holineſs, Humility, Meekneſs, Self<g ref="char:EOLhyphen"/>denial, Zeal for the Divine Glo<g ref="char:EOLhyphen"/>ry,
+<note place="margin">1 Joh. 2.6.</note> 
+               <hi>&amp;c. He that ſaith he abideth in him,</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 1 Cor. 5.10.</note> muſt needs <hi>himſelf alſo ſo walk, even as he walked.</hi>
+            </p>
+            <p>Laſtly, <hi>The Glory, Honour and Intereſt of Chriſt is the great End of a true Chriſtian's Life.</hi> He does not only ſometimes <hi>ſpeak</hi> or <hi>act</hi> for Chriſt,
+<note place="margin">2 Cor. 5.15.</note> but habitually <hi>lives to him.</hi> Our Apoſtle tells us here,
+<note place="margin">V. 15 —18.</note> he <hi>re<g ref="char:EOLhyphen"/>joic'd</hi> while <hi>Chriſt was preach<g ref="char:EOLhyphen"/>ed</hi> and glorified, and his Intereſt carried on, tho himſelf was, by the ſame Perſons, <hi>envied</hi> and de<g ref="char:EOLhyphen"/>ſpiſed. We muſt in this be <hi>like</hi> him, and hereby evidence that <hi>Chriſt is our Life,</hi> if we would ſay upon like grounds with him, <hi>Death will be our Gain.</hi>
+            </p>
+            <p>Theſe are brief <hi>hints</hi> of the <hi>ſe<g ref="char:EOLhyphen"/>verals</hi> I take to be included in this Phraſe, <hi>To me to live is Chriſt,</hi> or <hi>Chriſt is my Life;</hi> which taken to<g ref="char:EOLhyphen"/>gether,
+<pb n="13" facs="tcp:44951:7"/>I conceive, give us an ex<g ref="char:EOLhyphen"/>cellent Deſcription of a true living Chriſtian. <hi>He is one that, through the meritorious Sufferings and Obe<g ref="char:EOLhyphen"/>dience of the Lord Jeſus, is vitally united to him by Faith, and thereby juſtified and ſanctified; rul'd by his Laws, and influenc'd by his Love; his Life is conform'd to Chriſt's Life, and devoted to the advance<g ref="char:EOLhyphen"/>ment of his Glory and Intereſt.</hi> To all ſuch, and ſuch only, <hi>Death will be Gain.</hi> And ſo I come to the</p>
+            <p n="2">II. General, to treat ſomething of the <hi>Advantage that every true living Chriſtian gains by Death.</hi> This we ſhall conſider more <hi>gene<g ref="char:EOLhyphen"/>rally,</hi> and more <hi>particularly.</hi>
+            </p>
+            <p>I would in a more general way premiſe two things:</p>
+            <p n="1">1. <hi>Every true living Chriſtian is a preſent and immediate Gainer by Death.</hi> When their <hi>Body</hi> returns to the Earth,
+<note place="margin">Eccleſ. 12.7.</note> 
+               <hi>their Spirit</hi> happily <hi>returns to God who gave it.</hi> Hence
+<pb n="14" facs="tcp:44951:8"/>heavenly-minded Chriſtians ear<g ref="char:EOLhyphen"/>neſtly long to be <hi>abſent from the Body,</hi>
+               <note place="margin">2 Cor. 5.8.</note> 
+               <hi>that they may be preſent with the Lord.</hi> Without preſuppoſing this, I can't ſee what rational Ac<g ref="char:EOLhyphen"/>count can be given of the Apoſtles <hi>Option,</hi> ver. 23. <hi>Having a deſire to depart,</hi> or
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> to be diſſolv'd, <hi>and be with Chriſt.</hi> Which Truth I think alſo plainly taught by our Saviour, in his gracious Promiſe to the pe<g ref="char:EOLhyphen"/>titioning Malefactor,
+<note place="margin">Luke 23.43.</note> 
+               <hi>Verily I ſay to thee, To day,</hi> or
+<note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, hodie, q.d. hoc die. <hi>Paſor.</hi>
+               </note> this very day, <hi>thou ſhalt be with me in Paradiſe;</hi> that is, <hi>in heavenly Delights and Pleaſures.</hi> Who alſo teaches all his faithful Servants by his own Example,
+<note place="margin">Ib. <hi>ver.</hi> 46.</note> 
+               <hi>to commend their expi<g ref="char:EOLhyphen"/>ring Spirits into the hands of their Heavenly Father.</hi>
+            </p>
+            <p>But, 2. <hi>The fulneſs and comple<g ref="char:EOLhyphen"/>tion of their Gain by Death is re<g ref="char:EOLhyphen"/>ſerv'd for the glorious Appearance of the Lord Jeſus Chriſt.</hi> When the Bodies of Saints ſhall be <hi>rais'd</hi> and <hi>reunited</hi> to their Souls, then
+<pb n="15" facs="tcp:44951:8"/>they ſhall <hi>fully</hi> enter into the Joy of their Lord. Hence this is con<g ref="char:EOLhyphen"/>ſtantly ſpoken of as the <hi>great</hi> day of Redemption and Recompence. 'Tis <hi>when Chriſt who is our Life ſhall appear,</hi>
+               <note place="margin">Col. 3.4.</note> that we ſhall fully <hi>appear with him in Glory:</hi>
+               <note place="margin">2 Theſſ. 1.10.</note> 
+               <hi>When he ſhall come to be</hi> moſt eminently <hi>glorified in his Saints, and admir'd in all them that believe.</hi> Whence all that have valiantly and victoriouſly <hi>fought the good fight,</hi> &amp;c.
+<note place="margin">2 Tim. 4.7, 8.</note> die in a comfortable hope of receiving <hi>a Crown of Righteouſneſs at that day, viz.</hi> of his appearing. Thus much in general.</p>
+            <p>I ſhall now more particularly endeavour to ſet before you ſome<g ref="char:EOLhyphen"/>thing of the Advantages which living Chriſtians gain by Death. And,</p>
+            <p n="1">1. They gain thereby <hi>a perfect freedom from all Sin.</hi> I need not prove to any ſerious Chriſtian that this is a very <hi>great Gain.</hi> Believers are indeed now characteriz'd to be
+<pb n="16" facs="tcp:44951:9"/>ſuch as are <hi>made free from Sin;</hi>
+               <note place="margin">Rom. 6.22.</note> but this means no otherwiſe than as the Apoſtle afterwards explains him<g ref="char:EOLhyphen"/>ſelf,
+<note place="margin">— 8.2.</note> 
+               <hi>made free from the Law,</hi> or Dominion <hi>of Sin.</hi> An abſolutely perfect freedom from Sin, is pecu<g ref="char:EOLhyphen"/>liar to the <hi>future</hi> Life. The re<g ref="char:EOLhyphen"/>mains of this Plague in Believers, like that inveterate <hi>Leproſy</hi> in the Houſes of <hi>Iſraelites,</hi>
+               <note place="margin">Lev. 14.</note> can't be per<g ref="char:EOLhyphen"/>fectly cur'd without <hi>diſſolving this earthly Houſe of their Tabernacle.</hi>
+               <note place="margin">2 Cor. 5.1.</note> Chriſt will at and after Death com<g ref="char:EOLhyphen"/>pleat his Work, and preſent his Church, and each living Member thereof,
+<note place="margin">Eph. 5.27.</note> 
+               <hi>glorious, not having ſpot or wrinkle, or any ſuch thing, but holy, and without blemiſh:</hi> Then they ſhall be <hi>without fault before the Throne of God.</hi>
+               <note place="margin">Rev. 14.5.</note>
+            </p>
+            <p n="2">2. They are freed by it not on<g ref="char:EOLhyphen"/>ly from all Sin, but <hi>from all Temp<g ref="char:EOLhyphen"/>tations and Inclinations to Sin.</hi> This is much more than the former. Our firſt Parents in Innocency were wholly free from <hi>Sin,</hi> but
+<pb n="17" facs="tcp:44951:9"/>'tis certain they were not free from <hi>Temptations</hi> to Sin: Yea the ſecond <hi>Adam,</hi> our Lord Jeſus, tho per<g ref="char:EOLhyphen"/>fectly <hi>holy and undefil'd,</hi> yet, in the ſtate of his Humiliation, he was not only aſſaulted with Tempta<g ref="char:EOLhyphen"/>tions, but <hi>violently</hi> aſſaulted with moſt <hi>black</hi> and <hi>helliſh</hi> ones; and tho he could not in the leaſt be prevailed upon <hi>to ſin</hi> by theſe Temptations, yet he <hi>ſuffered,</hi>
+               <note place="margin">Heb. 2.18.</note> which ſeems to import ſome <hi>difficulty,</hi> in bearing and reſiſting of them; no wonder then that the beſt Chriſtians very often find them<g ref="char:EOLhyphen"/>ſelves <hi>grievouſly</hi> tempted, and too much <hi>inclin'd</hi> to a ſinful compli<g ref="char:EOLhyphen"/>ance, when yet through Grace they are kept from thoſe <hi>Sins</hi> to which they are tempted. But Death will free the ſincere Chri<g ref="char:EOLhyphen"/>ſtian not only from the deſtructive malignity of <hi>the fiery Darts of the wicked one,</hi>
+               <note place="margin">Eph. 6.16.</note> but alſo from their <hi>afflictive Injections;</hi> not only from being <hi>overcome</hi> by thoſe <hi>fleſhly Luſts</hi>
+               <note place="margin">1 Pet. 2.11.</note>
+               <pb n="18" facs="tcp:44951:10"/>
+               <hi>which war againſt their Souls,</hi> but alſo from being any more <hi>moleſted</hi> by the motion of them. Death will not only ſecure them from being <hi>deſtroyed</hi> by <hi>this preſent evil World,</hi>
+               <note place="margin">Gal. 1.4.</note> but it will <hi>totally deliver</hi> them from it.</p>
+            <p>In this reſpect Death will uſher the living Chriſtian into a Life tranſcendently more excellent than the preſent Life of <hi>Grace,</hi> wherein whatever ground Chriſtians have to <hi>think themſelves to ſtand,</hi>
+               <note place="margin">1 Cor. 10.12.</note> or
+<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 2 Cor. 13.1.</note> to be eſtabliſhed, they muſt ſtill <hi>take heed leſt they fall.</hi> And ſure the moſt confirm'd Chriſtian, while here, as well as the great <hi>Apoſtle,</hi> has need to maintain a <hi>cautionary</hi> Fear and Endeavour,
+<note place="margin">1 Cor. 9.27.</note> 
+               <hi>leſt he ſhould be,</hi> or
+<note n="†" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> become a Reprobate or <hi>Caſtaway.</hi>
+            </p>
+            <p>Yea Death will advance the li<g ref="char:EOLhyphen"/>ving Chriſtian into a tranſcendent<g ref="char:EOLhyphen"/>ly better Life than that <hi>paradiſical</hi> one of our firſt Parents in Inno<g ref="char:EOLhyphen"/>cency, as was hinted before: For
+<pb n="19" facs="tcp:44951:10"/>tho they were free from <hi>Sin,</hi> and furniſh'd with Strength and Abili<g ref="char:EOLhyphen"/>ty to have <hi>continued</hi> in that State, yet they were not freed from the <hi>poſſibility</hi> and <hi>danger</hi> of ſinning, as the event wofully manifeſted. But Believers thro Death will be ſe<g ref="char:EOLhyphen"/>cur'd not only from <hi>Sin,</hi> but from <hi>all danger of ſinning,</hi> and eſtabliſh'd in an <hi>impeccable</hi> and immutable ſtate of Holineſs.</p>
+            <p n="3">3. <hi>Death will free the living Chriſtian from all Sorrows and Mi<g ref="char:EOLhyphen"/>ſeries.</hi> They are already exempted by their <hi>Juſtification</hi> from liable<g ref="char:EOLhyphen"/>neſs to <hi>future-Wrath</hi> and Condem<g ref="char:EOLhyphen"/>nation:
+<note place="margin">1 Theſſ. 5.9.</note> 
+               <hi>God hath not appointed them to Wrath, but to obtain Salva<g ref="char:EOLhyphen"/>tion thro our Lord Jeſus Chriſt.</hi> But while they have any remains of Sin, they muſt look for Sorrows and Afflictions, which are the inſe<g ref="char:EOLhyphen"/>parable <hi>Concomitants</hi> of it. <hi>Job</hi>'s Experience is as true of the beſt Chriſtians, as of other Men, that as they are <hi>of few days</hi> in this
+<pb n="20" facs="tcp:44951:11"/>World, ſo thoſe few days are <hi>full of trouble.</hi> How many Sorrows afflict ſome thro <hi>want</hi> and <hi>penury;</hi> and no leſs Sorrows attend others in obtaining and uſing of <hi>Riches;</hi> and a while after it may be far greater accoſt them by the ſud<g ref="char:EOLhyphen"/>den <hi>loſs</hi> of an Eſtate, or great part of it, by ſome <hi>ſurprizing</hi> Cala<g ref="char:EOLhyphen"/>mity;
+<note place="margin">Prov. 23.5.</note> while <hi>Riches make them<g ref="char:EOLhyphen"/>ſelves Wings and fly away, as an Ea<g ref="char:EOLhyphen"/>gle towards Heaven.</hi> Many times they have great Sorrows from the Malignity of open <hi>Enemies,</hi> at other times no leſs from the Trea<g ref="char:EOLhyphen"/>chery of pretended <hi>Friends,</hi> and the Mutability and Fickleneſs of once real ones. The dear Children of God here labour often under Sorrows by reaſon of <hi>Pains,</hi> and dolorous Diſtempers in their <hi>Bo<g ref="char:EOLhyphen"/>dies,</hi> and many times by reaſon of <hi>Doubts</hi> and Fears in their <hi>Minds:</hi> They have many times Heart<g ref="char:EOLhyphen"/>breaking Sorrows from the woful <hi>Miſcarriages</hi> of Children, or other
+<pb n="21" facs="tcp:44951:11"/>dear Relations; and often very cutting Sorrows by a ſudden <hi>remo<g ref="char:EOLhyphen"/>val</hi> of them thro a ſurprizing ſtroke of Death. It would be endleſs to enumerate the variety of Sorrows and Calamities that more or leſs afflict God's Children while here; but at their Diſſolution <hi>God will wipe away all Tears from their Eyes,</hi>
+               <note place="margin">Rev. 21.4.</note> 
+               <hi>and there ſhall be no more Death, neither Sorrow nor crying; neither ſhall there be any more Pain: for the former things are paſſed away.</hi>
+            </p>
+            <p n="4">4. <hi>At Death the living Chriſtian is freed not only from the burden of a ſinful, but alſo from the clog of an animal Body.</hi> A <hi>ſinful</hi> Body is one thing, and an <hi>animal</hi> Body another. It would be equal<g ref="char:EOLhyphen"/>ly falſe and irreligious for any to ſay that our Saviour had a <hi>ſin<g ref="char:EOLhyphen"/>ful Body,</hi> but it is certainly true that he had an <hi>animal Body</hi> like ours, liable to the like <hi>natural</hi> tho not <hi>moral</hi> Infirmities, which <hi>Sin</hi> hath brought into our Bodies.
+<pb n="22" facs="tcp:44951:12"/>Whence I conceive 'tis ſaid he <hi>was ſent in the likeneſs</hi> not only of Fleſh,
+<note place="margin">Rom. 8.3.</note> but of <hi>ſinful Fleſh.</hi> The Bodies of Saints in the preſent ſtate, as they are to them an occa<g ref="char:EOLhyphen"/>ſion of much Sin, ſo when they are not ſo, they are a great <hi>clog</hi> and <hi>hindrance,</hi> and as it were a dead <hi>weight,</hi> to keep their aſpiring Souls from mounting <hi>upwards</hi> in Divine Contemplations and Com<g ref="char:EOLhyphen"/>munion with God. Tho the Fleſh in them be not ſo <hi>ſtrong</hi> as to prove a victorious <hi>Enemy,</hi> yet 'tis ſo <hi>weak</hi> as to prove a very untoward and ſluggiſh <hi>Servant,</hi> even when they are bleſs'd with a <hi>willing Spirit</hi> in religious Duties. Whence the beſt Saints have con<g ref="char:EOLhyphen"/>tinual need not only to <hi>watch,</hi>
+               <note place="margin">Mat. 26.41.</note> but <hi>pray</hi> earneſtly for help from above, to ſecure them from being van<g ref="char:EOLhyphen"/>quiſhed by Temptation. But Death will bring them into that bleſſed State wherein this <hi>contemp<g ref="char:EOLhyphen"/>tible,</hi>
+               <note place="margin">1 Cor. 15.43, 44, 49.</note> and, it may be, <hi>deform'd</hi>
+               <pb n="23" facs="tcp:44951:12"/>Body ſhall be made <hi>glorious</hi> and <hi>beautiful:</hi> This <hi>weak</hi> and <hi>frail</hi> Bo<g ref="char:EOLhyphen"/>dy ſhall be made <hi>vigorous</hi> and <hi>powerful;</hi> this <hi>Earthly</hi> and <hi>Terrene</hi> Body ſhall be made <hi>Heavenly</hi> and <hi>Celeſtial;</hi> this <hi>groſs</hi> and <hi>ſluggiſh</hi> Body ſhall be made <hi>pure</hi> and <hi>ſpiri<g ref="char:EOLhyphen"/>tual:</hi> Then I conceive they will be enabled even literally to <hi>mount up as with Eagles Wings,</hi>
+               <note place="margin">Iſa. 40.31.</note> 
+               <hi>to run and not be weary, and walk and not faint.</hi> In a word, our gracious Redeemer will <hi>change this our vile Body,</hi>
+               <note place="margin">Phil. 3.21.</note> 
+               <hi>that it may be faſhioned like unto his glo<g ref="char:EOLhyphen"/>rious Body, according to the work<g ref="char:EOLhyphen"/>ing whereby he is able even to ſubdue all things to himſelf.</hi>
+            </p>
+            <p n="5">5. <hi>Their Souls at and after Death ſhall be freed not only from all ſinful, but alſo from all afflictive Ignorance, and made perfect in the Knowledg of God, and his moſt excellent Works.</hi> This Knowledg our Saviour calls <hi>Life Eternal,</hi>
+               <note place="margin">Joh. 17.3.</note> becauſe as a preſent ſanctified Knowledg of God is the only <hi>way</hi> to, ſo the Perfection
+<pb n="24" facs="tcp:44951:13"/>of this Knowledg is of the <hi>Eſſence</hi> of Eternal Life and Bleſſedneſs. The moſt illuminated Saints here have cauſe, with <hi>Elihu,</hi> to complain <hi>we can't order</hi> either our Thoughts and Conceptions,
+<note place="margin">Job 37.19.</note> or our Words and Expreſſions aright, concern<g ref="char:EOLhyphen"/>ing him, by <hi>reaſon of Darkneſs.</hi> Indeed the moſt raiſed Notions and Conceptions, Words and Diſ<g ref="char:EOLhyphen"/>courſes even of an <hi>Apoſtle,</hi> while here, concerning the <hi>Myſteries</hi> of God and Religion, are but like the <hi>imperfect</hi> and <hi>confus'd Thoughts,</hi> or <hi>liſping</hi> and <hi>broken</hi> Expreſſions of <hi>Children,</hi> compar'd with what they ſhall be in Heaven, whence ſpring ſo many different Apprehenſions amongſt the moſt ſincere Chriſti<g ref="char:EOLhyphen"/>ans; and hence they are too often vehemently contending and quar<g ref="char:EOLhyphen"/>relling like Children about thoſe abſtruſe Difficulties which are clearly apprehended by neither of the contending Parties. But Death will cauſe all <hi>Scales</hi> to fall
+<pb n="25" facs="tcp:44951:13"/>from their Eyes, and remove eve<g ref="char:EOLhyphen"/>ry <hi>Veil</hi> from their Heart: then their preſent obſcure Knowledg ſhall vaniſh, as the twinkling Light of a <hi>Candle</hi> before the reſplendent Brightneſs of the <hi>Sun.</hi> All which is fully and clearly expreſſed by the Apoſtle to the <hi>Corinthian</hi> Chriſtians.
+<note place="margin">1 Cor. 13.8-12.</note> Then will Saints be let into the full view of the <hi>Myſte<g ref="char:EOLhyphen"/>ries</hi> of Redemption,
+<note place="margin">1 Pet. 1.12.</note> 
+               <hi>which things the Angels deſire to look into:</hi> Then will the infinitely wiſe and beau<g ref="char:EOLhyphen"/>tiful <hi>Series</hi> of Divine Providence be diſplay'd, which here appears many times, to the beſt, <hi>dark</hi> and <hi>unaccountable</hi> for want of their ſeeing it <hi>from the beginning to the end:</hi>
+               <note place="margin">Eccleſ. 3.11.</note> Then ſhall the Depths of the Divine Wiſdom and Goodneſs in all God's Works appear to his Saints, who ſhall be the <hi>wondring</hi> and <hi>delightful</hi> Beholders thereof.</p>
+            <p n="6">6. <hi>Death will let them into the immediate beatifying Viſion, and full enjoyment of God and their bleſſed
+<pb n="26" facs="tcp:44951:14"/>Redeemer:</hi> Then all that are <hi>pure in Heart</hi> ſhall,
+<note place="margin">Mat. 5.8.</note> according to our Saviour's Promiſe, be made compleatly <hi>bleſſed by ſeeing God: They ſhall ſee his Face, and his Name ſhall be written in their Fore<g ref="char:EOLhyphen"/>head.</hi>
+               <note place="margin">Rev. 22.4.</note> How and after what man<g ref="char:EOLhyphen"/>ner Saints ſhall <hi>ſee him who is in<g ref="char:EOLhyphen"/>viſible,</hi>
+               <note place="margin">Heb. 11.27.</note> what human Mind can now conceive? and how much leſs can my Tongue or Pen expreſs it? But in this the Holy Ghoſt is ex<g ref="char:EOLhyphen"/>preſs;
+<note place="margin">1 Joh. 3.2.</note> 
+               <hi>We ſhall ſee him as he is;</hi> and as the bleſſed Effect of this Viſion, <hi>we ſhall be like him.</hi> And well may this, according to the Apoſtle's deſign, raiſe admiring Thoughts and Meditations in our Minds concerning that <hi>State,</hi> and the Divine <hi>Love</hi> which gives us an Intereſt therein. 'Tis very un<g ref="char:EOLhyphen"/>chriſtian to murmur and repine at the Death of our Godly Friends and Relations; which is only the accompliſhment of the <hi>gracious Will</hi> and <hi>mediatory Requeſt</hi> of our
+<pb n="27" facs="tcp:44951:14"/>Saviour:
+<note place="margin">Joh. 17.24.</note> 
+               <hi>Father</hi> (ſaith he) <hi>I will that they alſo whom thou haſt given me be with me where I am, that they may behold my Glory,</hi> &amp;c. O! what a deſirable thing muſt it be <hi>to be for ever with the Lord,</hi>
+               <note place="margin">1 Theſſ. 4.17.</note> and in the perpetual and uninterrupted fruition of him? To all ſuch who count it no leſs their <hi>Privilege</hi> than their <hi>Duty</hi> to behold his Glo<g ref="char:EOLhyphen"/>ry <hi>now,</hi> tho it be only in the <hi>Glaſs of Ordinances;</hi> to all thoſe who often, in ſome good meaſure, ex<g ref="char:EOLhyphen"/>perience the Pſalmiſt's Devotion, breathing forth with him,
+<note place="margin">Pſal. 42.20.</note> 
+               <hi>My Soul thirſteth for God, for the living God; when ſhall I come to appear before God?</hi> And again,
+<note place="margin">—63.1, 2.</note> 
+               <hi>My Soul thirſieth for thee, to ſee thy Power and thy Glory, ſo as I have ſeen thee in the Sanctuary.</hi>
+            </p>
+            <p n="7">7. <hi>Death will bring them into the moſt bleſſed and delightful Socie<g ref="char:EOLhyphen"/>ty.</hi> They <hi>now</hi> enjoy not only a viſible Fellowſhip with Saints, but a ſweet and inviſible Communion
+<pb n="28" facs="tcp:44951:15"/>with holy Angels, who delight<g ref="char:EOLhyphen"/>fully perform that kind Office, in which they are imploy'd by our <hi>common Head,</hi> being by him made <hi>all miniſtring Spirits,</hi>
+               <note place="margin">Heb. 1.14.</note> 
+               <hi>ſent forth to miniſter for them who ſhall be Heirs of Salvation.</hi> But they ſhall aſcend from the <hi>valley</hi> of Death to the <hi>top</hi> of <hi>Mount</hi> Sion,
+<note place="margin">Heb. 12.22, 23.</note> 
+               <hi>and to the City of the living God, the Heavenly</hi> Jeruſalem, <hi>and to an in<g ref="char:EOLhyphen"/>numerable company of Angels; — and to the Spirits of just Men made perfect.</hi> Made perfect! that is, freed from all thoſe defects in <hi>Knowledg</hi> and <hi>Holineſs,</hi> which here render the Society even of <hi>Saints</hi> ſometimes very <hi>unpleaſant</hi> and troubleſom. But O what a Felicity will it be to meet in that perfect State with many of our dear Friends and Relations! and it may be ſome of our Enemies too, perſectly reconciled to us! to enjoy intimate Society with <hi>Abraham, Iſaac,</hi> and <hi>Jacob,</hi> and
+<pb n="29" facs="tcp:44951:15"/>all the holy Patriarchs, Prophets, Apoſtles, and Martyrs; and, in a word, with all thoſe Noble and Excellent Saints that ever we read or heard of. You can't but from the Conſideration of theſe things, conclude with me in the</p>
+            <p n="8">8. Place, <hi>That Death will bring them into the moſt raviſhing Joys, and into the most pure and unmix'd Pleaſures.</hi> The moſt refin'd Joys of this Life have a great <hi>alloy,</hi> and mixture of Sorrow: The moſt delightful <hi>Pleaſures</hi> are at<g ref="char:EOLhyphen"/>tended with <hi>Pain,</hi> and Uneaſi<g ref="char:EOLhyphen"/>neſs: The moſt happy Eſtate here is often obtain'd with <hi>care,</hi> kept with <hi>fear,</hi> and loſt with <hi>trouble:</hi> Honour and Greatneſs are commonly <hi>uneaſy</hi> to thoſe that <hi>have</hi> them, and <hi>hated</hi> and <hi>envied</hi> by thoſe that have them not. Liberal Education and Knowledg is one of the ſweeteſt Pleaſures and De<g ref="char:EOLhyphen"/>lights of an <hi>ingenuous</hi> Mind; yet even this (if we may believe
+<pb n="30" facs="tcp:44951:16"/>him who had the largeſt Expe<g ref="char:EOLhyphen"/>rience of it) is not without its <hi>Vanity</hi> and <hi>Vexation of Spirit.</hi> For <hi>in much Wiſdom,</hi>
+               <note place="margin">Eccleſ. 1.18.</note> ſaith he, <hi>is much Grief; and he that in<g ref="char:EOLhyphen"/>creaſeth Knowledg, increaſeth Sor<g ref="char:EOLhyphen"/>row.</hi> Yea, the very Sweets and Delights of <hi>Religion</hi> are here ex<g ref="char:EOLhyphen"/>ceedingly <hi>dampt;</hi> partly by the Conſciouſneſs of our great <hi>Im<g ref="char:EOLhyphen"/>perfection</hi> therein, partly by <hi>Me<g ref="char:EOLhyphen"/>lancholy,</hi> and partly by the Ma<g ref="char:EOLhyphen"/>lice of that <hi>malignant</hi> Spirit, who if he can't <hi>hale</hi> us with himſelf into <hi>Hell,</hi> will be ſure to make us go as <hi>droopingly</hi> as poſſible in our way to <hi>Heaven.</hi> But Death tranſmits holy Souls into the <hi>immediate</hi> Preſence of God, where there is <hi>fulneſs of Joy,</hi>
+               <note place="margin">Pſal. 16.11.</note> 
+               <hi>and at whoſe right-hand there are Pleaſures for evermore.</hi> Then all the <hi>Doubts</hi> of ſad and dejected, tho ſincere Souls, ſhall be chang'd into <hi>full aſſurance;</hi> all their <hi>Dark<g ref="char:EOLhyphen"/>neſs</hi> into the moſt clear <hi>Light,</hi>
+               <pb n="31" facs="tcp:44951:16"/>their <hi>Mournings</hi> into <hi>Melodies,</hi> their <hi>Sorrows</hi> and <hi>Sighs</hi> into <hi>Songs</hi> of Praiſe and joyful <hi>Halle<g ref="char:EOLhyphen"/>lujahs to him that ſits upon the Throne,</hi>
+               <note place="margin">Rev. 19.1. chap. 5.13.</note> 
+               <hi>and to the Lamb for ever and ever.</hi>
+            </p>
+            <p>Laſtly, <hi>All theſe Advantages will be eternal and everlaſting.</hi> This is indeed but a Circumſtance, but 'tis ſuch a Circumſtance, with<g ref="char:EOLhyphen"/>out which all the Happineſs of Heaven it ſelf would be <hi>imper<g ref="char:EOLhyphen"/>fect:</hi> Yea, the greater the <hi>Feli<g ref="char:EOLhyphen"/>city</hi> is, the greater and more a<g ref="char:EOLhyphen"/>mazing would be the <hi>damp</hi> it would ſtrike upon the Spirits of thoſe who are in the <hi>fruition</hi> of it, to think; Alas, one day I muſt be depriv'd of all this! and either relapſe into my former Miſeries, or elſe <hi>ſink</hi> into the <hi>abyſs</hi> of Nothingneſs. I believe there are few living Chriſtians but are ready to cry out with <hi>Job,</hi> under a ſenſe of the <hi>Sin<g ref="char:EOLhyphen"/>ſulneſs</hi> and <hi>Miſerableneſs</hi> of the
+<pb n="32" facs="tcp:44951:17"/>preſent Life,
+<note place="margin">Job 7.16.</note> 
+               <hi>I would not live al<g ref="char:EOLhyphen"/>ways.</hi> But it is impoſſible any ſuch thought ſhould enter into the Mind of a glorified Saint: Where there is <hi>fulneſs of Joy,</hi> it can't but be an inconceivable Pleaſure to know it ſhall be <hi>for evermore.</hi> As the Felicities of Saints after Death are call'd <hi>weights</hi> of Glo<g ref="char:EOLhyphen"/>ry, becauſe of the <hi>Greatneſs</hi> of them; ſo they are call'd <hi>eternal weights,</hi> becauſe of the <hi>Durable<g ref="char:EOLhyphen"/>neſs</hi> and <hi>Permanency</hi> of them. O conſider then what a bleſſed thing it is to be regenerated, and born again; for ſuch are begot<g ref="char:EOLhyphen"/>ten to <hi>an Inheritance,</hi> not like the Inheritances of this World, <hi>fa<g ref="char:EOLhyphen"/>ding</hi> and <hi>uncertain,</hi>
+               <note place="margin">1 Pet. 1.3, 5.</note> but <hi>to an In<g ref="char:EOLhyphen"/>heritance incorruptible and undefi<g ref="char:EOLhyphen"/>led, and that fadeth not away, re<g ref="char:EOLhyphen"/>ſerved in Heaven for you, who are kept by the Power of God thro Faith unto Salvation.</hi>
+            </p>
+            <pb n="33" facs="tcp:44951:17"/>
+            <p> Thus I have ſet before you a <hi>little,</hi> and I may, without any Rhetorical Flouriſh, ſay <hi>but a little</hi> of the <hi>Advantages</hi> which eve<g ref="char:EOLhyphen"/>ry ſincere Chriſtian ſhall gain by <hi>Death.</hi> I am confident who<g ref="char:EOLhyphen"/>ever of you paſs thro the <hi>dark valley and ſhadow of Death</hi> into thoſe Regions of Light and Bleſ<g ref="char:EOLhyphen"/>ſedneſs (and O that it may be the Portion of <hi>every one</hi> of you, who are my Hearers or Rea<g ref="char:EOLhyphen"/>ders!) you will then <hi>wonderingly</hi> ſay of this your Gain by Death, as the Queen of <hi>Sheba</hi> of <hi>Solo<g ref="char:EOLhyphen"/>mon</hi>'s Wiſdom, <hi>Behold,</hi>
+               <note place="margin">1 Kings 10, 7.</note> 
+               <hi>the half was not told me:</hi> and the Glory and Felicity far <hi>exceeds the Fame I heard.</hi>
+            </p>
+            <p>I now proceed to make ſome brief <hi>Application</hi> of the whole.</p>
+            <p>And among many very uſeful <hi>Reflections,</hi> which might be made upon this excellent Subject, I ſhall ſhut up my preſent Diſ<g ref="char:EOLhyphen"/>courſe
+<pb n="34" facs="tcp:44951:18"/>with theſe brief ones fol<g ref="char:EOLhyphen"/>lowing.</p>
+            <p n="1">1. Well may we hence infer <hi>the Wiſdom of ſincere Religion.</hi> If ſuch be the <hi>end</hi> of a truly Chri<g ref="char:EOLhyphen"/>ſtian Life, then, as the Scriptures <hi>frequently,</hi> ſo they moſt <hi>fitly</hi> re<g ref="char:EOLhyphen"/>preſent ſincere Religion and Pi<g ref="char:EOLhyphen"/>ety as <hi>the trueſt Wiſdom.</hi> Let even <hi>Reaſon</hi> impartially ſpeak whether it be not the trueſt Wiſdom to prefer the <hi>Fountain of Living Waters, before broken Ciſterns that can hold no Water;</hi> to prefer our <hi>Souls,</hi> in which we were made but little inferior to <hi>An<g ref="char:EOLhyphen"/>gels,</hi> before our <hi>Bodies,</hi> in which we are little ſuperior to <hi>Beaſts;</hi> to give the Preference to <hi>Heaven</hi> above <hi>Earth,</hi> to <hi>Eternity</hi> above <hi>Time;</hi> to prefer <hi>ſolid</hi> and <hi>endleſs</hi> Joys and Felicities, before <hi>empty</hi> and <hi>periſhing</hi> Pleaſures: and then the reſult of its Determination muſt ſurely be, that the ſeriouſly <hi>religious</hi> Perſon is the only <hi>wiſe</hi> one. And,</p>
+            <p n="2">
+               <pb n="35" facs="tcp:44951:18"/> 2. 'Tis, on the contrary, <hi>the greateſt folly to neglect that Life, which alone will end in this gain<g ref="char:EOLhyphen"/>ful Death.</hi> O what ſtupendous folly is it <hi>to make light</hi> of Chriſt!
+<note place="margin">Mat. 20.2-5.</note> who muſt be our <hi>Life,</hi> if ever <hi>we live indeed.</hi> 'Tis great folly <hi>in any meaſure</hi> to neglect, but what unaccountable Madneſs is it <hi>wholly</hi> to <hi>neglect this great Salvation!</hi> Nor is it leſs folly for any to ſatisfy themſelves with the <hi>Name,</hi> with<g ref="char:EOLhyphen"/>out the <hi>Life</hi> of Chriſtianity, with a mere <hi>Form,</hi> without the <hi>Power</hi> of Godlineſs; for any to pleaſe themſelves becauſe they <hi>eat in Chriſt's Preſence,</hi> and ſit at his Table, tho they ſecretly <hi>work Ini<g ref="char:EOLhyphen"/>quity,</hi> and indulge themſelves in worldly and fleſhly <hi>Luſts.</hi> Such have no <hi>part or lot in this</hi> whole <hi>matter.</hi> However ſuch Hypo<g ref="char:EOLhyphen"/>crites may now flatter themſelves with a vain expectation of <hi>Hap<g ref="char:EOLhyphen"/>pineſs,</hi> tho they are regardleſs of that ſincere <hi>Holineſs</hi> which is the
+<pb n="36" facs="tcp:44951:19"/>only <hi>way</hi> to it, this their Hope ſhall at laſt utterly <hi>periſh,</hi> and be ſuddenly <hi>cut off,</hi>
+               <note place="margin">Job. 8.14.</note> 
+               <hi>and their Truſt will be as a Spider's Web. Tho they feed upon Aſhes,</hi>
+               <note place="margin">Iſa. 44.20.</note> 
+               <hi>and carry a Lie in their right-hand,</hi> and are ſo <hi>turn'd aſide by a deceived</hi> and flat<g ref="char:EOLhyphen"/>tering <hi>Heart,</hi> as to entertain no ſerious thoughts of ſecuring and <hi>delivering their Souls;</hi> they ſhall at length be rouz'd out of this deluſory Dream. However they have lull'd their Conſciences a<g ref="char:EOLhyphen"/>ſleep, fancying themſelves ſpiri<g ref="char:EOLhyphen"/>tually rich, by reaſon of their Profeſſion and external Privileges, they ſhall not by all their empty Pleas be able to deceive their <hi>all-knowing Judg,</hi> nor appeaſe him who will then be <hi>inexorable</hi> to their moſt earneſt Intreaties; but, with wrathful Countenance, he will <hi>profeſs to them,</hi>
+               <note place="margin">Mat. 7.23.</note> ſaying, <hi>I never knew you; Depart from me ye that work Iniquity.</hi> Death will not be to them any <hi>Gain,</hi> but the <hi>end</hi>
+               <pb n="37" facs="tcp:44951:19"/>of all their Delights, and the <hi>be<g ref="char:EOLhyphen"/>ginning</hi> of never-dying Sorrows and Woes.</p>
+            <p n="3">3. Seeing none ſhall be admit<g ref="char:EOLhyphen"/>ted into <hi>Heaven,</hi> but <hi>thoſe who have Chriſt for their Life,</hi> as far as in us lies <hi>we ſhould admit and re<g ref="char:EOLhyphen"/>tain no other in Chriſt's Church, which ought to be an Emblem of Heaven,</hi> upon which account 'tis often call'd the <hi>Kingdom of Heaven.</hi> Such as make Chriſt's <hi>Laws</hi> the <hi>Rule</hi> of their Life, Chriſt's <hi>Life</hi> the <hi>Pattern</hi> of theirs, and make his <hi>Glory</hi> and <hi>Intereſt</hi> their ultimate <hi>End</hi> and <hi>Deſign;</hi> theſe are the only Perſons likely to be a <hi>Repu<g ref="char:EOLhyphen"/>tation</hi> to, or receive <hi>benefit</hi> by <hi>Church Communion.</hi> One <hi>ſcanda<g ref="char:EOLhyphen"/>lous Sinner</hi> being indulg'd in the Church, tho but a <hi>little Leven,</hi> yet <hi>leveneth the whole lump,</hi> that is,
+<note place="margin">1 Cor. 5.6.</note> renders the whole Church <hi>guilty</hi> by their <hi>abetting</hi> of him. It is a horrid Reproach to our holy Re<g ref="char:EOLhyphen"/>ligion to ſuffer any ſuch in <hi>Chriſti<g ref="char:EOLhyphen"/>an
+<pb n="38" facs="tcp:44951:20"/>Communion;</hi> and much more is it ſo, if ſuch a one ſhould be a <hi>magnified Teacher</hi> in any Society of Chriſtians, as ſeveral of the <hi>Greek Fathers</hi> tell us,
+<note place="margin">
+                  <hi>Theodoret, Chryſoſtom,</hi> &amp;c. Vid. <hi>Poli</hi> Sy<g ref="char:EOLhyphen"/>nopſin in locum. Ver. 2, 6.</note> that <hi>inceſtuous Fornicator</hi> amongſt the <hi>Corinthi<g ref="char:EOLhyphen"/>ans</hi> was, and that therefore they were <hi>puffed up</hi> from a conceit of his applauded Eloquence, and profound Learning, inſtead of <hi>mourning</hi> and being humbled; and <hi>gloried</hi> in their connivance at his Wickedneſs, inſtead of being <hi>aſham'd</hi> of it.
+<note place="margin">Heb. 12.15, 16.</note> 
+               <hi>Look diligently,</hi> ſaith the Apoſtle to the Chriſtian Church, <hi>leſt any root of bitterneſs</hi> be ſuffer'd to <hi>ſpring up,</hi> and be not rooted out; <hi>leſt there be any For<g ref="char:EOLhyphen"/>nicator, or profane Perſon, and thereby many be defiled.</hi>
+            </p>
+            <p n="4">4. <hi>This ſhould perſwade all that have Chriſt for their Life, to love one another.</hi>
+               <note place="margin">Joh. 3.3.</note> All ſuch are <hi>born</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Heb. 11.13.</note> 
+               <hi>from above,</hi> and therefore are but <hi>Strangers</hi> and <hi>Pilgrims</hi> here below. The whole time of their
+<pb n="39" facs="tcp:44951:20"/>continuance upon Earth, is but the <hi>time of their ſojourning here:</hi>
+               <note place="margin">1 Pet. 1.17.</note> They are <hi>in the World</hi> as well as others, but they are not <hi>of it,</hi> but are God's <hi>elect</hi> ones, and <hi>peculiar Treaſure,</hi> being, by their gracious Redeemer, <hi>choſen out of the World;</hi>
+               <note place="margin">Joh. 15.19.</note> and therefore <hi>the World hates them,</hi> and carries it ſtrangely towards them; and they likewiſe are, in the <hi>Temper</hi> of their <hi>Hearts,</hi> and in the <hi>Deportment</hi> of their <hi>Lives,</hi> alienated from the World: And becauſe they are <hi>Strangers on Earth,</hi>
+               <note place="margin">Eph. 2.19.</note> they are <hi>no more Strangers and Foreigners</hi> in Heaven, <hi>but fellow Citizens with the Saints, and of the Houſhold of God.</hi>
+            </p>
+            <p>As therefore <hi>Natives</hi> of the ſame Country, tho they may have lit<g ref="char:EOLhyphen"/>tle acquaintance and familiarity while at home, yet are much <hi>endeared</hi> in their mutual Affecti<g ref="char:EOLhyphen"/>ons by meeting together in a <hi>ſtrange Land,</hi> eſpecially if it be withal a <hi>barbarous</hi> Country, where
+<pb n="40" facs="tcp:44951:21"/>they are Partners in Sufferings and Hardſhips; ſo Chriſtians, conſidering they are <hi>all fellow Tra<g ref="char:EOLhyphen"/>vellers</hi> thro a <hi>waſt howling Wilder<g ref="char:EOLhyphen"/>neſs</hi> to the Celeſtial <hi>Canaan,</hi> ſhould take that excellent Counſel good <hi>Joſeph</hi> gave his Brethren,
+<note place="margin">Gen. 45.24.</note> 
+               <hi>See that ye fall not out by the way.</hi>
+            </p>
+            <p>If <hi>Chriſt be our Life,</hi> then we are all Members of <hi>one Body,</hi>
+               <note place="margin">Epheſ. 4.4.</note> and Partakers of <hi>one Spirit,</hi> and <hi>call'd in one hope of our Calling;</hi> we are then all Subjects and Diſciples of <hi>one Lord,</hi>
+               <note place="margin">Ver. 5.</note> and have, in reſpect of the ſaving Eſſentials, but <hi>one Faith,</hi> and are all the Children of <hi>one God and Father;</hi> all which are very <hi>uniting</hi> and <hi>endearing</hi> Conſi<g ref="char:EOLhyphen"/>derations: But eſpecially, if, be<g ref="char:EOLhyphen"/>ſides all this, we are <hi>viſibly</hi> initia<g ref="char:EOLhyphen"/>ted into Chriſt's Church by that <hi>one Baptiſm</hi> which he inſtituted, different Apprehenſions about more diſputable Matters of Reli<g ref="char:EOLhyphen"/>gion, ſhould not hinder us from <hi>jointly</hi> and ſtudiouſly <hi>endeavouring</hi>
+               <note place="margin">Ver. 3.</note>
+               <pb n="41" facs="tcp:44951:21"/>
+               <hi>to keep the</hi> moſt cloſe <hi>
+                  <g ref="char:V">Ʋ</g>nity of the Spirit in the Bond of Peace.</hi>
+            </p>
+            <p n="5">5. <hi>This yields great Support when our Godly Friends and Relations are taken from us by the hand of Death:</hi> We may then indeed have manifold cauſe to mourn, but <hi>not to ſorrow as others who have no hope:</hi>
+               <note place="margin">1 Theſſ. 5.13.</note> ſeeing they are only <hi>fallen aſleep in Jeſus,</hi> they ſhall certainly <hi>a<g ref="char:EOLhyphen"/>wake,</hi> and be <hi>for ever with the Lord.</hi>
+            </p>
+            <p>You, the ſurviving Relations of this our deceaſed Father, have cauſe to mourn for <hi>your</hi> Loſs, and the Church of Chriſt hath great cauſe to mourn for <hi>hers;</hi> but you have both great ground of Support, in that God continued him with you to <hi>a good old Age,</hi> and eſpecially in that his <hi>hoary Head was a Crown of Glory,</hi>
+               <note place="margin">Prov. 16.31.</note> being <hi>found in the way of Righteouſneſs.</hi> He liv'd near fourſcore years, and more than threeſcore of them were <hi>ſolemnly,</hi> and (we have juſt
+<pb n="42" facs="tcp:44951:22"/>reaſon to believe) <hi>ſincerely</hi> de<g ref="char:EOLhyphen"/>voted to the Lord Jeſus in his Church: Yea, he had been, as I am certainly inform'd, about fifty four years a <hi>Paſtor</hi> or <hi>Biſhop</hi> un<g ref="char:EOLhyphen"/>der the great <hi>Shepherd and Biſhop of Souls:</hi> About fourteen years of which time he ſpent in <hi>Suffer<g ref="char:EOLhyphen"/>ings, Bonds</hi> and <hi>Impriſonments</hi> for his Lord, and in the Teſtimony of a good Conſcience.</p>
+            <p>He was indeed (in my opi<g ref="char:EOLhyphen"/>nion, and in the opinion of ſeveral other Chriſtians) ſomewhat too <hi>ſtrait</hi> and <hi>narrow</hi> in his Notions concerning the <hi>terms of Church-Communion;</hi> but even <hi>this,</hi> we have good reaſon to think, pro<g ref="char:EOLhyphen"/>ceeded <hi>from his ſincere Zeal, and tender reſpect to the Laws of the bleſſed Jeſus.</hi> I know of no <hi>diſ<g ref="char:EOLhyphen"/>honour</hi> or <hi>blemiſh</hi> he brought upon our holy Religion in his ſo long Profeſſion of it, but he was, I think, in general an <hi>Ornament</hi> and <hi>Reputation</hi> to it.</p>
+            <pb n="43" facs="tcp:44951:22"/>
+            <p> He bore his long Sickneſs and Pains with much <hi>Patience</hi> and Submiſſion to the Divine Will, and to the laſt rejoiced in <hi>full aſſurance of hope:</hi> He being <hi>con<g ref="char:EOLhyphen"/>ſcious</hi> that <hi>Chriſt was his Life,</hi> thereupon comfortably concluded that <hi>Death would be his Gain.</hi> We have good ground, through Grace, to believe him among thoſe bleſſed Ones <hi>who died in the Lord,</hi>
+               <note place="margin">Rev 14.13.</note> 
+               <hi>who reſt from their La<g ref="char:EOLhyphen"/>bours, and their Works follow them:</hi> And that he will hear that joyful Sentence,
+<note place="margin">Mat. 25.21, <hi>&amp;c.</hi>
+               </note> 
+               <hi>Well done good and faith<g ref="char:EOLhyphen"/>ful Servant, Enter thou into the Joy of thy Lord.</hi> Where we leave him. And,</p>
+            <p>In the laſt place, Let us labour to be <hi>Followers of him,</hi> ſo far as he <hi>followed Chriſt;</hi> and of all o<g ref="char:EOLhyphen"/>thers <hi>who through Faith and Pa<g ref="char:EOLhyphen"/>tience inherit the Promiſes.</hi>
+               <note place="margin">Heb. 6.12.</note> Let us give all diligence, and labour with a holy <hi>Ambition,</hi> to <hi>grow in Grace</hi> and Holineſs, and there<g ref="char:EOLhyphen"/>by
+<pb n="44" facs="tcp:44951:23"/>
+               <hi>make our Calling and Election ſure;</hi>
+               <note place="margin">2 Pet. 1.5-11.</note> that ſo we may have <hi>an Entrance abundantly miniſtred to us into the everlaſting Kingdom of our Lord and Saviour Jeſus Chriſt.</hi> This antient Miniſter of Chriſt now laying in the Duſt, liv'd in<g ref="char:EOLhyphen"/>deed to be <hi>full of days;</hi> but who of you can promiſe your ſelves to be herein like him?
+<note place="margin">James 4.14.</note> 
+               <hi>For what is your Life? it is even a Vapour that appeareth for a little time, and then vaniſheth away.</hi> O remem<g ref="char:EOLhyphen"/>ber that the youngeſt and ſtrong<g ref="char:EOLhyphen"/>eſt, and the moſt healthy <hi>walk</hi> but <hi>in a vain ſhew,</hi>
+               <note place="margin">Pſal. 39.5, 6.</note> and <hi>at their beſt,</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Stans vel ſtabilis.</note> moſt eſtabliſh'd <hi>State,</hi> are altogether Vanity! Let us therefore earneſtly pray, and la<g ref="char:EOLhyphen"/>bour <hi>ſo to number our days,</hi>
+               <note place="margin">Pſal. 90.12.</note> and conſider the great uncertainty of our Life, <hi>that we may apply our Hearts to</hi> Divine and Heavenly <hi>Wiſdom.</hi> We ſee <hi>many</hi> of our dear Friends and Relations ſud<g ref="char:EOLhyphen"/>denly <hi>cut off as a Flower,</hi> and
+<pb n="45" facs="tcp:44951:23"/>
+               <hi>ſnatch'd</hi> from us; let us bleſs God for the good hope we have, thro Grace, of their being <hi>ready;</hi> and let us pray and labour that we may be <hi>alſo ready,</hi>
+               <note place="margin">Mat. 24.44.</note> becauſe our Lord aſſures us, <hi>he will come in ſuch an hour as we think not.</hi> I cloſe all with the Apoſtle's con<g ref="char:EOLhyphen"/>cluding Exhortation and Deſire: <hi>Therefore my beloved Brethren,</hi>
+               <note place="margin">1 Cor. 15.58.</note> 
+               <hi>be ye ſtedfaſt, unmovable, always a<g ref="char:EOLhyphen"/>bounding in the Work of the Lord, foraſmuch as ye know that your Labour is not in vain in the Lord. And we deſire that every one of you do ſhew the ſame diligence,</hi>
+               <note place="margin">Heb. 6.11.</note> 
+               <hi>to the full aſſurance of hope unto</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>
+               <hi>Errat.</hi> Pag. 7. read <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:44951:24"/>
+            <head>Sold by <hi>Andr. Bell</hi> at the Croſs Keys and Bible in <hi>Cornhil,</hi> and <hi>M. Fabian</hi> at <hi>Mercer</hi>'s Chappel in <hi>Cheapſide,</hi>
+            </head>
+            <p>AN ESSAY to prove <hi>Singing</hi> of Pſalms with <hi>conjoyn'd</hi> Voices, a Chriſtian Duty, and to reſolve the <hi>Doubts</hi> concerning it. And,</p>
+            <p>A Brief <hi>Vindication</hi> of the ſaid Eſſay.</p>
+            <p>Both by <hi>Rich. Allen.</hi>
+            </p>
+            <p>Hymns in Commemoration of the Sufferings of our bleſſed Lord and Sa<g ref="char:EOLhyphen"/>viour Jeſus Chriſt, compos'd for the Celebration of his holy Supper.</p>
+            <p>A new Verſion of <hi>Solomon</hi>'s Song of Songs; together with the 45th Pſalm.</p>
+            <p>The Groans of a Saint under the Burden of a mortal Body. Being a Fu<g ref="char:EOLhyphen"/>neral Sermon on Mr. <hi>John Belcher.</hi>
+            </p>
+            <p>Theſe by <hi>Joſeph Stennett.</hi>
+            </p>
+            <pb facs="tcp:44951:24"/>
+         </div>
+      </back>
+   </text>
+</TEI>
